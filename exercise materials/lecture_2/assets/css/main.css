@@ -68,3 +68,11 @@ h1 {
     padding-top: 50px;
     padding-bottom: 50px;
 }
+
+
+/* Portfolio*/
+
+
+a.zoom.green img {
+    max-height: 227px;
+}
