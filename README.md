@@ -9,6 +9,6 @@ In my git repository, there should be the following:
 4. ReadME
 
 
-### Project has been deployed to this domain URL:  <a href="https://meem.youngres.online/"> Deployed Project URL </a>
+### Project has been deployed to this domain URL:  <a href="https://meem.youngres.online/"> Deployed Project URL </a>, I have bought a domian and hosting from namecheap.
 
 ### To run this Project, please download or clone the GitHub repository, and run index.html in the browser.
